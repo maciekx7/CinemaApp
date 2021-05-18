@@ -1,0 +1,30 @@
+[
+	{
+		"title":"Poniedziałki dla dwojga",
+		"description":"Tylko w poniedziałki wraz z kuponem z naszej aplikacji możesz kupić dwa średnie zestawy nachos + picie w cenie jednego",
+		"image":"MondayForTwo.png",
+		"discount":"50%",
+		"price":""
+	},
+	{
+		"title":"Bezcenne chwile z Mastercard",
+		"description":"Przeżywaj niezapomniane chwile z Multikinem i Mastercard. Kupuj bilety na filmy przy pomocy karty  Mastercard, zbieraj punkty i wymieniaj je na nagrody - na przykład kolejne bilety do kina. ",
+		"image":"MastercardPricelessSpecials.jpeg",
+		"discount":"",
+		"price":""
+	},
+	{
+		"title":"Payback",
+		"description":"Multikino i Payback łączą siły. Kupuj bilety do naszego kina wraz z kartą Payback, zbieraj punkty i wymieniaj je na wspaniałe nagrody. Im więcej biletów w jednej transakcji, tym więcej ",
+		"image":"payback.jpeg",
+		"discount":"",
+		"price":""
+	},
+	{
+		"title":"Czwartkowe łakomstwo",
+		"description":"Tylko w czwartki wraz z kuponem z naszej aplikacji możesz kupić średni popcorn z napojem za 20zł. Promocja nie łączy się z ofertami.",
+		"image":"ThursdayGreed.png",
+		"discount":"",
+		"price":"20"
+	}
+]

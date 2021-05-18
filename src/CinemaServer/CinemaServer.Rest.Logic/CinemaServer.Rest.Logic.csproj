@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CinemaServer.Logic\CinemaServer.Logic.csproj" />
+    <ProjectReference Include="..\CinemaServer.Rest.Model\CinemaServer.Rest.Model.csproj" />
+    <ProjectReference Include="..\CinemaServer.Model\CinemaServer.Model.csproj" />
+  </ItemGroup>
+</Project>

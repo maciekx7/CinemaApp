@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="1.3.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.4" />
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DBConnect\" />
+    <Folder Include="DBInfo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CinemaServer.FileReader\CinemaServer.FileReader.csproj" />
+  </ItemGroup>
+</Project>
