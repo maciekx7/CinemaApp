@@ -1,7 +1,7 @@
 # CinemaApp
 Client-Server Cinema Application. Android Mobile Client, REST API ASP.NET Core server and MySQL database.
 
-This project was created on porpouse of academic project. 
+This project was created on purpose of academic project. 
 
 In src folder you can find:
 * Server source code written in ASP.NET Core C#,
