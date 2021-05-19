@@ -1,5 +1,5 @@
 # CinemaApp
-Client-Server Cinema Application. Android Mobile Client and REST API ASP.NET Core server.
+Client-Server Cinema Application. Android Mobile Client, REST API ASP.NET Core server and MySQL database.
 
 This project was created on porpouse of academic project. 
 
