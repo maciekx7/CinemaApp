@@ -8,7 +8,7 @@ In src folder you can find:
 * Adroid .APK file of client application,
 * Mysql database script which contains database structure and example data.
 
-In 'src/CinemaServer/config/json/database' you should place valid connection data for your MySql database. 
+In `src/CinemaServer/config/json/database` you should place valid connection data for your MySql database. 
 If Mysql script not working, delete 7-18 and 466-472 rows in SQL script.
 
 In ferst version of this application some security gaps were created on education porpouse. In Documentation_v1 you can find all of them. 
