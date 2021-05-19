@@ -12,4 +12,4 @@ In `src/CinemaServer/config/json/database` you should place valid connection dat
 If Mysql script is not working, delete 7-18 and 466-472 rows in SQL script.
 
 In first version of this application some security gaps were created on education porpouse. In Documentation_v1 you can find all of them. 
-In Documentation_v2 you can find that all gaps was fixed and for example in final version of project `/Ticket/But` API is a POST HTTP request (Not GET, as Documentation_v1 says).
+In Documentation_v2 you can find that all gaps was fixed and for example in final version of project `/Ticket/Buy` API is a POST HTTP request (Not GET, as Documentation_v1 says).
